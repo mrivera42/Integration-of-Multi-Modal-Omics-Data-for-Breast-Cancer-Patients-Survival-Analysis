@@ -19,7 +19,9 @@ Each of our 3 models (miRNA, mRNA, and miRNA + mRNA) has a main.m file associate
 * __kaplanmeier.m__ = uses risk scores to split patients into high and low risk groups for visualization 
 * __concordanceIndex.m__ = uses survival time and risk scores to calculate concordance index 
 * __stepFunction.m__ = supporting function for concordance index
-* __tables.m__ = script that create heat maps and plots to organize performance metric results Data Files used:
+* __tables.m__ = script that create heat maps and plots to organize performance metric results 
+
+### Data Files used:
 * __mirna.tsv__ = tsv file of miRNA data 
 * __rnaseq-aaa.tsv__ = tsv file of mRNA 
 * __data survival.tsv__ = tsv file for survival data
