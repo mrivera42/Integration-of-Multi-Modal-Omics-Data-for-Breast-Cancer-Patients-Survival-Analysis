@@ -1,16 +1,16 @@
-## Integration-of-Multi-Modal-Omics-Data-for-Breast-Cancer-Patients-Survival-Analysis
+# Integration-of-Multi-Modal-Omics-Data-for-Breast-Cancer-Patients-Survival-Analysis
 
 Michael-Alexander Rivera and Shreenu Sivakumar
 
 ## Instructions:
 Each of our 3 models (miRNA, mRNA, and miRNA + mRNA) has a main.m file associated with it’s name. For a chosen model, to execute all steps of our workflow, including preprocessing, feature selection, and training, and survival analysis, run the main file.
 
-# Main Scripts:
+### Main Scripts:
 * __main_mirna.m__ = main script for miRNA only model
 * __main_rnaseq.m__ = main script for mRNA only model 
 * __main_integrated.m__ = main script for miRNA + mRNA integrated model
 
-# Supporting Functions and Scripts:
+### Supporting Functions and Scripts:
 * __preprocessing_mirna.m__ = performs preprocessing for miRNA data (no inputs needed) 
 * __preprocessing_rnaseq.m__ = performs preprocessing for mRNA data (no inputs needed) 
 * __preprocessing_survival.m__ = performs preprocessing for survival data (no inputs needed) 
