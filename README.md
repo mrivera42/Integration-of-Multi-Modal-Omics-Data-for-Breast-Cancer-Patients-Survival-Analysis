@@ -1,6 +1,6 @@
 # Integration-of-Multi-Modal-Omics-Data-for-Breast-Cancer-Patients-Survival-Analysis
 
-Michael-Alexander Rivera and Shreenu Sivakumar
+Max Rivera and Shreenu Sivakumar
 
 ## Instructions:
 Each of our 3 models (miRNA, mRNA, and miRNA + mRNA) has a main.m file associated with it’s name. For a chosen model, to execute all steps of our workflow, including preprocessing, feature selection, and training, and survival analysis, run the main file.
